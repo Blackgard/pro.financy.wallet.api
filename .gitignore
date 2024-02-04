@@ -1,0 +1,13 @@
+# logs
+*.log
+
+# pip files
+/build
+/dist
+
+# environment
+*.env*
+!*.env.example
+
+# cmd build commands
+build.cmd
